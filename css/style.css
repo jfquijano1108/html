@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+
+table, th, td {
+border: 1px solid white;
+border - collapse: collapseS;
+background-color: red;
+}
